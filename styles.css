@@ -1,0 +1,130 @@
+body {
+  background-image: url('https://img.freepik.com/free-photo/abstract-polygonal-space-low-poly-dark-background-3d-rendering_7247-223.jpg?size=626&ext=jpg');
+  background-size: 400%;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  font-size: 300%;
+  padding: 50px 15px 20px 15px;
+}
+
+h1 {
+  color: #fff;
+  font-family: "san-serif";
+  font-weight: bolder;
+  font-size: 5.625rem;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: #809f39;
+  font-family: "Arial";
+  font-size: 3rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  text-align:center;
+  color:#809f39 ;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+h4{
+  color: #1e311b;
+  font-size: 3em;
+  font-weight: bold;
+  font-family: monospace;
+
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: normal;
+  color: white;
+}
+
+hr {
+  border-color: #809f39;
+  border-width: 20px;
+  border-style: dotted;
+  border-top-style: dotted;
+  width: 10%
+}
+
+img {
+
+  padding: 20px 20px 20px 20px;
+}
+
+
+.navbar-brand {
+  height: 50px;
+  width: 50;
+}
+
+
+.top-container {
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 150px;
+  text-align: center;
+  padding: 70px 0 10px;
+
+}
+
+.skills-png {
+  height: 250px;
+  width: 250px;
+}
+
+.skills-2 {
+  height: 260px;
+  width: 260px;
+}
+
+.middle-container{
+  background-color:#a9c3ba;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 150px;
+  text-align: center;
+  padding: 100px 0 10px;
+
+}
+
+.bottom-container {
+  text-align: center;
+  background-color:#1e311b ;
+  padding: 100px 0 20px;
+}
+
+
+.contact-me {
+  text-align: center;
+}
+
+.contact-message {
+  margin: 40px auto 60px;
+}
+
+.footer-link {
+  color: #b5b3af;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+
+.copyright {
+  color: #b5b3af;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
